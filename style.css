@@ -99,10 +99,10 @@ nav ul li a{
         height: 100%;
         max-width: 450px;
         top: -12px;
-        left: 897px;
+        left: 860px;
     }
     .profile-img{
-        left: 825px;
+        left: 815px;
         transition: transform 0.5s;
     }
     .profile-img:hover{
