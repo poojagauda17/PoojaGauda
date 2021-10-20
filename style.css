@@ -96,15 +96,15 @@ nav ul li a{
     .back-img{
         margin-top: -229px;
         position: absolute;
-        width: 70%;
+        width: 80%;
         height: 220%;
         max-width: 450px;
         top: -12px;
         left: 897px;
     }
     .profile-img{
-        margin-top: -230px;
-        width: 70%;
+        margin-top: -220px;
+        width: 80%;
         left: 825px;
         max-width: 450px;
         position: relative;
