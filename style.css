@@ -92,3 +92,21 @@ nav ul li a{
     transform: translate(-25px, -25px);
     cursor: pointer;
 }
+@media (max-width:1481px) {
+    .back-img{
+        position: absolute;
+        width: 80%;
+        height: 100%;
+        max-width: 450px;
+        top: -12px;
+        left: 897px;
+    }
+    .profile-img{
+        left: 825px;
+        transition: transform 0.5s;
+    }
+    .profile-img:hover{
+        transform: translate(-25px, -25px);
+        cursor: pointer;
+    }
+}
